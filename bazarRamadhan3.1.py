@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ds9gLvPUSqV13ELC8REyXLxUFcOfqMcz
 """
 
-pip install streamlit_folium
-
 import pandas as pd
 import folium
 from folium.plugins import MarkerCluster
